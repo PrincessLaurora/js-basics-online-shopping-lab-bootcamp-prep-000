@@ -47,10 +47,12 @@ function total() {
 
 function removeFromCart(item) {
   var cart = newCart
-  if cart[i].itemName === item
-  for or (let i = 0; i < cart.length; i++) {
-newCart.splice(i, 1)
-    
+  if cart[i].itemName === item {
+  for (let i = 0; i < cart.length; i++) {
+newCart.splice(i, 1)}
+return newCart}
+  else {
+    return 
   }
 
 function placeOrder(cardNumber) {
