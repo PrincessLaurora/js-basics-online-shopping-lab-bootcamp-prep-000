@@ -48,10 +48,10 @@ function total() {
 function removeFromCart(item) {
   var cart = newCart;
   
-  if (NewCart[i].itemName === item) {
-  for (let i = 0; i < NewCart.length; i++) {
-newCart.splice(i, 1)}
-return newCart }
+  if (cart[i].itemName === item) {
+  for (let i = 0; i < cart.length; i++) {
+cart.splice(i, 1)}
+return cart }
   else {
     return 'That item is not in your cart';
   }
