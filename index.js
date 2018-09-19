@@ -49,7 +49,7 @@ function removeFromCart(item) {
   var cart = newCart
   if cart[i].itemName === item
   for or (let i = 0; i < cart.length; i++) {
-newCart.splice(i, )
+newCart.splice(i, 1)
     
   }
 
