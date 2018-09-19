@@ -36,7 +36,7 @@ insideCart += ', '}
 
 
 function total() {
-  
+  for (i = )
 }
 
 function removeFromCart(item) {
