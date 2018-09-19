@@ -46,6 +46,7 @@ function total() {
 
 
 function removeFromCart(item) {
+  var 
   if 
 }
 
